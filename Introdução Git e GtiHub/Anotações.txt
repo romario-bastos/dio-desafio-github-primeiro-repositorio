@@ -1,0 +1,11 @@
+O link é acessível para contribuir no desenvolvimento do seu conhecimento na área da computação.
+
+Git clone + endereço --> para clonar o conteúdo do GitHub
+
+Git status --> para ver a verificação do projeto
+
+Git cd + nome da pasta --> Ter acesso a pasta
+
+git add . --> adicionar pasta
+
+git commit -m --> adicionar repertório no online
